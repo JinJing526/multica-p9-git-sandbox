@@ -1,0 +1,5 @@
+QUAL-002 branch protection verification marker
+
+purpose: verify that main is PR-only, that admin (JinJing526) can merge,
+and that read-only collaborator (jin1026hhh) cannot merge.
+created: 2026-11-16 (Asia/Shanghai)
